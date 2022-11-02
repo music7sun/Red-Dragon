@@ -11,8 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `📤මන් online හලො😇
+🤷‍♀️උදව්වක් ඕනත?😉` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,8 +29,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94762183275'] // owner number
+global.ownername = "😎IMESH❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -49,14 +49,14 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+380944814219']
 global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.botname = 'DJ-IMESH- 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "DJ-IMESH" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94762183275'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -64,17 +64,17 @@ global.antitags = false
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
 global.mess = {
-    success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
+    success: 'හරි ✅',
+    admin: 'Admin ලට විතරයි!😉',
     botAdmin: 'Bot wants to be an Admin😥',
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
-    error: 'Error!!! Maybe Api Key Is Expired🤔!',
+    wait: '👉👈සුට්ටක් ඉන්ඩෝ...',
+    error: 'Error!!! දොශයක්🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    linkm: 'Where is the link?',
+    linkm: 'කෝ ලින්කුව?',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban',
     badwords: '*🚫Bad Words Not Allowed Here !*\n\n⚠️ Warning... ⚠️',
@@ -283,12 +283,12 @@ global.rep = { // All Replies = 145
     K119: '😒👎',
     K120: 'එහෙම කියන්නෙපා පව්නෙ😒',
     K121: '🫢🙄',
-    K122: 'අනේ තෝ හුකාගනිං🙂💔',
+    K122: 'අනේ තෝ හු##🙂💔',
     K123: '😐උක්කමු😒😂😂',
-    K124: 'ඇයි🙄 පුකද බලන්නෙ?',
+    K124: 'ඇයි🙄 පු## බලන්නෙ?',
     K125: 'උබේ දෙක ද?😂',
     K126: 'උබේ ද?😂',
-    K127: '🥲මං ඇවිත් කටට ගන්නද?😒😝',
+    K127: '🥲මං ඇවිත් ක## ගන්නද?😒😝',
     K128: '😂😂හමෝ',
     K129: '😏ඕන්නැත්තං නිකං ඉන්න',
     K130: '🤭නිකං ඉන්න එපා ඇඳුමක් ඇඳගන්න😂❤️',
